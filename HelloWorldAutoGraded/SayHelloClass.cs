@@ -7,7 +7,7 @@ namespace HelloWorldAutoGraded
 
 		public static string SayHello()
 		{
-			return "&&&";
+			return "Hello, World!";
 		}
 
         //class constructor - intentionally empty
@@ -15,6 +15,7 @@ namespace HelloWorldAutoGraded
         {
 
         }
+
     }
 }
 
